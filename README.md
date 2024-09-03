@@ -1,0 +1,2 @@
+# pasantia
+Proyecto maquina expendedora
